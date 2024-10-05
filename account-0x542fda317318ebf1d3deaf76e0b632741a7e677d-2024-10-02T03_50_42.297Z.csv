@@ -1,0 +1,5 @@
+﻿"Object","Chain Id","Account Address","Address","Name","Symbol","Decimals","Icon Url","Raw Balance","Balance","Currency","Price","Market Value"
+"token","1","0x542fda317318ebf1d3deaf76e0b632741a7e677d","0x6b175474e89094c44da98b954eedeac495271d0f","Dai Stablecoin","DAI","18","","","0.72000196","usd","1","0.72"
+"token","1","0x542fda317318ebf1d3deaf76e0b632741a7e677d","0xdac17f958d2ee523a2206206994597c13d831ec7","Tether USD","USDT","6","","","1.007632","usd","0.999934","1.01"
+"token","1","0x542fda317318ebf1d3deaf76e0b632741a7e677d","0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","Wrapped BTC","WBTC","8","","","0.00029","usd","61681","17.89"
+"token","1","0x542fda317318ebf1d3deaf76e0b632741a7e677d","0x0000000000000000000000000000000000000000","Ether","ETH","18","","","0.08","usd","2493.31","199.46"
